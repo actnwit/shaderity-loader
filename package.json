@@ -24,6 +24,6 @@
     "webpack-cli": "^3.3.4"
   },
   "dependencies": {
-    "shaderity-node": "0.0.8"
+    "shaderity-node": "0.0.10"
   }
 }
